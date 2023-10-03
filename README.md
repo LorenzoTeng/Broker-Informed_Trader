@@ -1,2 +1,2 @@
-# Broker-Infomed_Trader
-simulations for paper brokers and informed traders: dealing with toxic flow and extracting trading signals
+# Broker_Infomed_Trader
+Codes and simulations for paper _Brokers and Informed Traders: Dealing with Toxic Flow and Extracting Trading Signals_ by Cartea et.al. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4265814
